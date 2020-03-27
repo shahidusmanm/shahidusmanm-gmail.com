@@ -20,7 +20,7 @@ The US Tuberculosis Dataset contains information about the number of reported ca
 
 The information in the dataset can be used to understand how TB has spread in each state over the course of 4 quarters and to predict how the disease may spread in the future. The dataset can be used to identify states under threat from the disease so that appropriate countermeasures can be taken.
 
-This data set is recommended for exploring data visualization techniques and implementing regression models for prediction tasks.
+This data set is recommended for exploring data visualization techniques (for example, making a heatmap as shown in the image) and implementing regression models for prediction tasks.
 
 ---
 
