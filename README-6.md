@@ -32,15 +32,15 @@ This data set is recommended for exploring data visualization techniques (for ex
 | 2             | MMWR Year                                   | Year under consideration                       | Year      |
 | 3             | MMWR Quarter                                | Quarter under consideration                    | Numeric   |
 | 4             | Tuberculosis, Current quarter               | Number of TB Patients in the Current Quarter   | Numeric   |
-| 5             | Tuberculosis, Current quarter, flag         |                                                | Text      |
+| 5             | Tuberculosis, Current quarter, flag         | Data point present/absent                      | Text      |
 | 6             | Tuberculosis, Previous 4 quarters Min       | Number of minimum TB Patients in the last year | Numeric   |
-| 7             | Tuberculosis, Previous 4 quarters Min, flag |                                                | Text      |
+| 7             | Tuberculosis, Previous 4 quarters Min, flag | Data point present/absent                      | Text      |
 | 8             | Tuberculosis, Previous 4 quarters Max       | Number of maximum TB Patients in the last year | Numeric   |
-| 9             | Tuberculosis, Previous 4 quarters Max, flag |                                                | Text      |
+| 9             | Tuberculosis, Previous 4 quarters Max, flag | Data point present/absent                      | Text      |
 | 10            | Tuberculosis, Cum 2018                      | Total number of TB Patients in 2018            | Numeric   |
-| 11            | Tuberculosis, Cum 2018, flag                |                                                | Text      |
+| 11            | Tuberculosis, Cum 2018, flag                | Data point present/absent                      | Text      |
 | 12            | Tuberculosis, Cum 2017                      | Total number of TB Patients in 2017            | Numeric   |
-| 13            | Tuberculosis, Cum 2017, flag                |                                                | Text      |
+| 13            | Tuberculosis, Cum 2017, flag                | Data point present/absent                      | Text      |
 
 
 ---
