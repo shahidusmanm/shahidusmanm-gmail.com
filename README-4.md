@@ -66,7 +66,8 @@ This data set is recommended for practicing classification modelling techniques.
 
 This data set has been sourced from the Machine Learning Repository of
 University of California, Irvine [Hepatitis C Virus (HCV) for Egyptian patients Data Set (UC
-Irvine)](https://archive.ics.uci.edu/ml/datasets/Hepatitis+C+Virus+%28HCV%29+for+Egyptian+patients#).  <br>
+Irvine)](https://archive.ics.uci.edu/ml/datasets/Hepatitis+C+Virus+%28HCV%29+for+Egyptian+patients#).  
+<br/>
 The UCI page mentions the following publication as the original source of the
 data set:  
 *M. Nasr, K. El-Bahnasy, M. Hamdy and S. M. Kamal, "A novel model based on non invasive methods for prediction 
