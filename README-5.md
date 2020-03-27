@@ -37,6 +37,13 @@ This data set is recommended for exploring data visualization techniques and imp
 | 2-18          | 2003 - 2019 | Data Points (in percentage) for years between 2003 to 2019                                                      | Numeric   |
 
 
+| Special Character | Description                   |
+| ----------------- | ----------------------------- |
+| :                 | Data not Available            |
+| e                 | Data Point has been Estimated |
+| b                 | Break in Time Series          |
+| p                 | Provisional                   |
+
 
 ---
 
