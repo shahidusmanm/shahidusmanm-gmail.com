@@ -37,7 +37,7 @@ The information in the dataset can be used to understand driving patterns of Bir
 
 This data set has been sourced from the Machine Learning Repository of
 University of California, Irvine [Parking Birmingham Dataset (UC
-Irvine)](https://archive.ics.uci.edu/ml/datasets/Parking+Birmingham).  
-The UCI page mentions the following individual as the original source of the
+Irvine)](https://archive.ics.uci.edu/ml/datasets/Parking+Birmingham). <br/><br/> 
+The UCI page mentions the following publication as the original source of the
 data set:  
-*Daniel H. Stolfi, dhstolfi '@' lcc.uma.es, University of Malaga - Spain*
+*Stolfi, Daniel H. & Alba, Enrique & Yao, Xin. (2017). Predicting Car Park Occupancy Rates in Smart Cities. 107-117. 10.1007/978-3-319-59513-9_11.*
