@@ -9,6 +9,11 @@ Copyright (c) 2019 - 2020
 ---
 ### Birmingham Parking Dataset
 
+---
+![](ParkingBirmingham.jpg	)
+---
+
+
 The Birmingham Parking Dataset is a simple beginner level dataset with 4 columns and 35718 rows. The dataset contains information about the number of cars parked in 30 parking areas around Birmingham at different times of the day between October to December 2016.
 
 The information in the dataset can be used to understand driving patterns of Birmingham with respect to time and date and be used for efficient planning of new parking facilities.
