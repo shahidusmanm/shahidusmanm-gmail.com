@@ -1,10 +1,10 @@
-Data Science Dojo  
+Data Science Dojo  <br/>
 Copyright (c) 2019 - 2020
 
 ---
-**Level:** Beginner 
-**Recommended Use:** Regression/Classification
-**Domain:** Transportation and Mobility 
+**Level:** Beginner <br/>
+**Recommended Use:** Regression/Classification  <br/>
+**Domain:** Transportation and Mobility <br/>
 
 ---
 ### Birmingham Parking Dataset
