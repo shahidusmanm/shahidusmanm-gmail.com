@@ -70,6 +70,6 @@ This data set has been sourced from the Machine Learning Repository of
 University of California, Irvine [EEG Steady-State Visual Evoked Potential Signals Data Set (UC Irvine)](https://archive.ics.uci.edu/ml/datasets/EEG+Steady-State+Visual+Evoked+Potential+Signals). 
 <br/><br/>
 The UCI page mentions the following publications as the original source of the
-data set:  
+data set:  <br/><br/>
 *Fernandez-Fraga, S. M., Aceves-Fernandez, M. A., Pedraza-Ortega, J. C. (2018). Feature Extraction of EEG Signal upon BCI Systems Based on Steady-State Visual Evoked Potentials Using the Ant Colony Optimization Algorithm. Discrete Dynamics in Nature and Society, 2018.*<br/><br/>
 *S. M. Fernandez-Fraga, M. A. Aceves-Fernande, J. C. Pedraza-Ortega & J. M. Ramos-ArreguÃ­n (2018). Screen Task Experiments for EEG Signals Based on SSVEP Brain Computer Interface. International Journal of Advanced Research, 2018*
