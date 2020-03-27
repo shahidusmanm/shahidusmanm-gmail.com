@@ -21,6 +21,7 @@ The Interstate Traffic Volume Dataset contains information about the hourly traf
 The information in the dataset can be used to understand the flow of traffic on the interstate with respect to time and date and can be helpful in prediction of rush hours, weather forecasting as well as planning expansions of interstates and highways in the US. 
 
 This data set is recommended for exploring data visualization techniques and implementing regression models for prediction tasks.
+
 ---
 
 ### Data Dictionary
